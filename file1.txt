@@ -1,1 +1,3 @@
 This is day 1
+
+We crated a git repository

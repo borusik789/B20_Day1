@@ -3,3 +3,6 @@ This is day 1
 We crated a git repository
 
 edit
+
+
+Iam making some changes for file .txt under repository
